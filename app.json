@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "TeslaApp",
-    "slug": "TeslaApp"
+    "slug": "TeslaApp",
+    "extra": {
+      "eas": {
+        "projectId": "587516ac-33e7-442a-b2a5-6e3b35cda6f3"
+      }
+    },
+    "android": {
+      "package": "com.shaheen_a.TeslaApp"
+    }
   }
 }
